@@ -1,0 +1,6 @@
+name = "FiniteElementRegistry"
+uuid = "8c61f5bc-2a94-488a-b1bc-9c989cb63943"
+repo = "https://github.com/finalbossqc/FiniteElementRegistry.git"
+description = "A collection of packages for finite element simulations"
+
+[packages]
