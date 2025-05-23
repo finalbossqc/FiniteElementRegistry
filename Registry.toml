@@ -4,3 +4,4 @@ repo = "https://github.com/finalbossqc/FiniteElementRegistry.git"
 description = "A collection of packages for finite element simulations"
 
 [packages]
+142ff081-cb1c-4c7f-a8f9-825c040e3ea0 = { name = "MeshOptimization", path = "M/MeshOptimization" }

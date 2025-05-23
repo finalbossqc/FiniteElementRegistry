@@ -1,0 +1,10 @@
+[1]
+ADTypes = "1.14.0 - 1"
+ForwardDiff = "0.10.38 - 0.10"
+LinearAlgebra = "1.11.0 - 1"
+Meshes = "0.53.7 - 0.53"
+Optimization = "4.2.0 - 4"
+OptimizationOptimJL = "0.4.2 - 0.4"
+Pkg = "1.11.0 - 1"
+Zygote = "0.7.7 - 0.7"
+julia = "1.6.7 - 1"
